@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi && Welcome 🖖🏾🤙🏾  <font color="red">**I'm Xavier**</font>
 
-<!--
-**XavierRice/XavierRice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *I am an aspiring full-stack software engineer, currently enrolled in the Pursuit Fellowship program, a Google-funded 12-month intensive software engineering fellowship with a 9% acceptance rate headquartered in Long Island City, NY.*
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+#### At Pursuit, I'm learning how to create web applications with technologies like **React, JavaScript (ES6), HTML5, CSS3, Express, PostgreSQL, APIs, and Git.**
+
+</br>
+
+##### *An avid and experienced storyteller and professional creative with a background in storytelling and community engagement,  I'm excited to learn new ways of growing and engaging new audiences.  I love gathering people together and sharing stories. Learning about each other; seeking common ground and sharing goals.*
+<br>
+
+
+- 👯 I’m looking to collaborate on *new projects to grow my portfolio*
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: xavier.rice@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: **I'm a huge nerd!** *Talk to me about gaming, Dnd, sci-fi and fantasy.*
