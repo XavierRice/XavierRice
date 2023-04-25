@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hello !! 🖖🏾✌🏾 I’m Xavier! 
 
-<!--
-**XavierRice/XavierRice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello !🖖🏾✌🏾 I’m Xavier! I am an aspiring full-stack software engineer, currently enrolled in the Pursuit Fellowship program, a Google-funded 12-month intensive software engineering fellowship with a 9% acceptance rate headquartered in Long Island City, NY. 
 
-Here are some ideas to get you started:
+At Pursuit, I'm learning how to create web applications with technologies like React, JavaScript (ES6), HTML5, CSS3, Express, PostgreSQL, APIs, and Git.
+
+An avid and experienced storyteller and professional creative with a background in storytelling and community engagement,  I'm excited to learn new ways of growing and engaging new audiences.  I love gathering people together and sharing stories. Learning about each other; seeking common ground and sharing goals.
+
+I’m a proud nerd, a huge gamer and I'd love to have join me in a D&D Adventure! 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
